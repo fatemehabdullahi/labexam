@@ -3,7 +3,7 @@ layout: posts
 title: My Website
 ---
 
-- Here you can see some of my favorite fractals :>
+- Here
 
 ![alt text](../assets/images/square.png "Square")
 
