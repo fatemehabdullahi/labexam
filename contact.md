@@ -15,5 +15,22 @@ Check the form below to see it in action!
 Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
 {% include form.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="http://mobinajafarpour.github.io">My Friend</a></li>
+        </ul>
+    </nav>
+
+</body>
+</html>
 
 {% include modal.html %}
