@@ -5,7 +5,7 @@ description: "Welcome to my web site." # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: 'https://fatemehabdullahi.github.io/labexam/' # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -24,8 +24,8 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Academic Calendar', link: http://www.iust.ac.ir/files/education/files/_%D9%85%D8%B5%D9%88%D8%A8_%D8%AA%D8%B1%D9%85_%D8%AF%D9%88%D9%85_1402_-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF_15-9-1402.pdf'}
-  - {name: 'Courses', link: https://docs.google.com/spreadsheets/d/173hAV2qETxFgLHc0x_OYvop_JlxaOh0kSbev_YzYeQc/edit#gid=406994137 }
+  - {name: 'Academic Calendar', link: 'http://www.iust.ac.ir/files/education/files/_%D9%85%D8%B5%D9%88%D8%A8_%D8%AA%D8%B1%D9%85_%D8%AF%D9%88%D9%85_1402_-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF_15-9-1402.pdf' }
+  - {name: 'Courses', link: 'https://docs.google.com/spreadsheets/d/173hAV2qETxFgLHc0x_OYvop_JlxaOh0kSbev_YzYeQc/edit#gid=406994137' }
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
