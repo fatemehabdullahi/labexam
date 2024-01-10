@@ -1,11 +1,28 @@
 ---
-layout: posts
+layout: post
 title: Lab Exam
+subtitle: Lab Exam
+image: /posts/photo_16.jpg
+comments: true
 ---
 
-- Here you can see some of my favorite fractals :>
+Your introductory text goes here. You can provide an optional subtitle as well.
 
-![alt text](../assets/images/square.png "Square")
+![Image Alt Text](/path/to/your/image.jpg)
 
+Continue writing your blog post here. You can use regular Markdown syntax for formatting, such as:
 
-[Here you can see 9 amazing fractals found in nature](http://www.treehugger.com/amazing-fractals-found-in-nature-4868776)
+- Lists
+- **Bold** and *Italic* text
+- Links: [Example Link](https://example.com)
+- Headers (### Header)
+- and more...
+
+### Another Section
+
+You can include additional sections in your blog post.
+
+![Another Image](/path/to/another/image.jpg)
+
+Remember to replace `/path/to/your/image.jpg` and `/path/to/another/image.jpg` with the actual paths to your images.
+
