@@ -1,10 +1,7 @@
 # SITE CONFIGURATION
 title: فاطمه عبداللهی # your site title
 author: GitHub User # You :P
-description: "Welcome to my web site." # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Welcome to my web site.
 baseurl: 'https://fatemehabdullahi.github.io/labexam/' # the subpath of your site, e.g. /blog
 url: 'https://fatemehabdullahi.github.io/labexam/' # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,12 +9,7 @@ url: 'https://fatemehabdullahi.github.io/labexam/' # the base hostname & protoco
 social:
   name: Fatemeh Abdollahi
   links:
-    - https://twitter.com/
-    - https://www.facebook.com/
-    - https://www.linkedin.com/
-    - https://plus.google.com/
     - https://github.com/fatemehabdullahi/
-    - https://keybase.io/
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -30,7 +22,7 @@ navigation: # Navigation links
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/photo_16.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: fatemehabdollahi13832004@gmail.com # email for form submission
 
